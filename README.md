@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Experienced Android Developer with a strong background in developing and maintaining high stable applications. Published two apps on Google Play and participated in a mobile app hackathon. Graduated in 2022 with a degree in Software Engineering.
 <!--
 **kamikadze328/kamikadze328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
